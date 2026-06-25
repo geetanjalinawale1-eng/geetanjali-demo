@@ -1,3 +1,8 @@
 # geetanjali-demo
-first repository 
-author - geetanjali 
+First repository .
+<br>
+Author - Geetanjali .
+<br>
+College - Cummins college of engineering , Pune .
+<br>
+Branch - Information Technology .
